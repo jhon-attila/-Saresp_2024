@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\models\\professoraplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\models\\professoraplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\repository\\professoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\repository\\professoraplicadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\views\\aluno\\cadastraraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\aluno\\cadastraraluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\views\\professoraplicador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\professoraplicador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\controllers\\professoraplicadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\controllers\\professoraplicadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\repository\\contract\\iprofessoraplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\repository\\contract\\iprofessoraplicador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\views\\professoraplicador\\cadastrarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\professoraplicador\\cadastrarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\jo\u00E3o\\source\\repos\\appsaresp_2024\\appsaresp_2024\\appsaresp_2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{093E3E56-D145-4239-B8C8-A6D438CF7DF3}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\appsaresp_2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\appsettings.json",
+              "RelativeToolTip": "AppSaresp_2024\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T20:40:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\ProfessorAplicador\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\ProfessorAplicador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\ProfessorAplicador\\Index.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\ProfessorAplicador\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T20:35:07.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastrarProfessor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\ProfessorAplicador\\CadastrarProfessor.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\ProfessorAplicador\\CadastrarProfessor.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\ProfessorAplicador\\CadastrarProfessor.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\ProfessorAplicador\\CadastrarProfessor.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T20:02:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfessorAplicadorController.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\ProfessorAplicadorController.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Controllers\\ProfessorAplicadorController.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\ProfessorAplicadorController.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Controllers\\ProfessorAplicadorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:56:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfessorAplicadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\ProfessorAplicadorRepository.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Repository\\ProfessorAplicadorRepository.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\ProfessorAplicadorRepository.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Repository\\ProfessorAplicadorRepository.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwJMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:36:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProfessorAplicador.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\Contract\\IProfessorAplicador.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Repository\\Contract\\IProfessorAplicador.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\Contract\\IProfessorAplicador.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Repository\\Contract\\IProfessorAplicador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:29:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfessorAplicador.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Models\\ProfessorAplicador.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Models\\ProfessorAplicador.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Models\\ProfessorAplicador.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Models\\ProfessorAplicador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:25:07.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:33:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:03:32.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastrarAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\Aluno\\CadastrarAluno.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T01:09:41.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:50:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Program.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Program.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:45:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwIEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:45:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Repository\\Contract\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:39:37.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:28:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppSaresp_2024.csproj",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\AppSaresp_2024.csproj",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\AppSaresp_2024.csproj",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\AppSaresp_2024.csproj",
+              "RelativeToolTip": "AppSaresp_2024\\AppSaresp_2024.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T23:27:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\AppSaresp_2024\\AppSaresp_2024\\appsettings.Development.json",
+              "RelativeToolTip": "AppSaresp_2024\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T23:23:51.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
